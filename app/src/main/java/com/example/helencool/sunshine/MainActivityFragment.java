@@ -16,9 +16,6 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.content.Intent;
-import android.os.Bundle;
-import android.support.v4.app.Fragment;
 
 import org.json.JSONArray;
 import org.json.JSONException;
